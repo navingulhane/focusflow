@@ -6,6 +6,15 @@ It combines task management, focus sessions, study tracking, workout logs, and a
 
 ---
 
+## Live Demo
+
+Access the deployed application here:
+
+https://v0.app/chat/focus-flow-dashboard-app-mJDxXDObtYl
+
+---
+
+
 ## Preview
 
 <img width="1885" height="855" alt="dash" src="https://github.com/user-attachments/assets/98159ccb-79e5-4d8a-ab93-a443f02f1d0d" />

@@ -84,5 +84,5 @@ The goal is to help students focus on execution rather than complexity.
 
 Navin Gulhane  
 Computer Science Student | Developer | Fitness Enthusiast
-
+..
 

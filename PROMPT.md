@@ -53,4 +53,4 @@ Components:
 - Icons only where needed
 
 Make it look like a professional SaaS product, not a student project.
-
+...

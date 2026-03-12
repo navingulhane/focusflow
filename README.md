@@ -1,10 +1,10 @@
-vhh# FocusFlow
+# FocusFlow
 
 FocusFlow is a modern productivity dashboard built for students who want to manage their time, stay disciplined, and track daily progress in one clean interface.
 
 It combines task management, focus sessions, study tracking, workout logs, and analytics into a minimal SaaS-style dashboard designed to improve consistency and performance.
 
----
+---...
 
 ## Live Demo
 

@@ -63,7 +63,7 @@ FocusFlow follows a clean and distraction-free design system inspired by modern 
 - Professional typography
 - No visual clutter
 
-The goal is to help students focus on execution rather than complexity.
+The goal is to help students focus on execution rather than complexity...
 
 ---
 
